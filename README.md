@@ -1,1 +1,1 @@
-Site criado com html, css e um toque de JavaScript, tendo como inspiração o site oficial da Apple, com objetivo de ser um site responsivo para entrega de uma avaliação da faculdade
+Site Responsivo Inspirado na Apple: Este projeto tem como objetivo criar uma página web moderna, responsiva e minimalista, inspirada no design clean e sofisticado do site oficial da Apple. Utiliza HTML, CSS e JavaScript para uma experiência de usuário otimizada em qualquer dispositivo.
