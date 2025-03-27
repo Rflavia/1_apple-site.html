@@ -1,1 +1,14 @@
-Site Responsivo Inspirado na Apple: Este projeto tem como objetivo criar uma página web moderna, responsiva e minimalista, inspirada no design clean e sofisticado do site oficial da Apple. Utiliza HTML, CSS e JavaScript para uma experiência de usuário otimizada em qualquer dispositivo.
+# Site Responsivo Inspirado na Apple
+
+Projeto para criar uma página web minimalista e responsiva, inspirada no design sofisticado da Apple, utilizando HTML, CSS, JavaScript e Bootstrap.
+
+## Objetivo
+
+Desenvolver uma interface limpa e otimizada para proporcionar uma experiência de navegação fluída em todos os dispositivos.
+
+## Tecnologias utilizadas
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
